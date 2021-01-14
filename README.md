@@ -14,7 +14,7 @@
 ## Usage
 
 ```sh
- clone this repo in your folder and use live server to access the application in your browser!
+ clone this repo in your folder and use live server to access the application on browser!
 ```
 
 ## Author
